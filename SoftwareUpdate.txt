@@ -1,1 +1,1 @@
-add yolov10
+Expand Model method type hinting (#8279)
